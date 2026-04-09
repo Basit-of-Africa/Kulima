@@ -1,0 +1,5 @@
+{
+  "name": "Kulima",
+  "description": "A simple, AI-assisted farming support app for smallholder farmers in Nigeria, focusing on crop diagnosis, planting advice, and local support.",
+  "requestFramePermissions": ["camera"]
+}
